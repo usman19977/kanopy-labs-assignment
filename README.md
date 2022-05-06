@@ -10,3 +10,6 @@ Axios <br>
 Axios Mock Adapter<br>
 Axios Interceptor <br>
 Hooks <br>
+# Steps
+1 - npm / yarn install<br>
+2 - npm / yarn start
